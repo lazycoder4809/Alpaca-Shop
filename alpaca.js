@@ -9,7 +9,7 @@ const products = [
             },
             {
                 id: "alpaca-002",
-                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp5x3y0JLzVJzgHQRYf4E0iBkyH-0hezs6bA&s",
+                image: "",
                 rating: { stars: 4.8, count: 8 },
                 priceCents: 329900,
                 description: "Rare black Suri alpaca with silky, lustrous fiber. 3 years old, male."
