@@ -5,7 +5,9 @@
     --light-color: #F7FFF7; /* Almost white */
     --dark-color: #292F36; /* Dark gray-blue */
 }
-
+header{
+    background-color: white;
+}
 body {
     font-family: 'Inter', sans-serif;
     background-color: var(--light-color);
@@ -110,7 +112,7 @@ nav a:hover {
 }
 
 .hero {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1603064752730-4d48a39a5a1a');
+    background-color: #1A1A1A;
     background-size: cover;
     background-position: center;
     height: 60vh;
